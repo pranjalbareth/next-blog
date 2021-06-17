@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           Check out my work on{' '}
           <a href="https://github.com/pranjalbareth">Github</a>{' '}
           and also you can connect with me on{' '}
-          <a href="https://linkedin.com/in/pranjalbareth">Linkedin</a>
+          <a href="https://linkedin.com/in/pranjal-bareth">Linkedin</a>
           .
         </p>
       </section>
